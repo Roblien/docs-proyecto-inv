@@ -3,3 +3,4 @@
 Integrantes:
 
 - Diego Sepúlveda
+- Matias Castro
